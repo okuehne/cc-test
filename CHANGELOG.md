@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/okuehne/cc-test/compare/v1.2.0...v1.3.0) (2022-08-26)
+
+
+### Features
+
+* add new function to print Hello World ([8c2cfb9](https://github.com/okuehne/cc-test/commit/8c2cfb943a5369325b1baf284669fe3cc8914c66))
+
+
+### Bug Fixes
+
+* change string ([e6f2559](https://github.com/okuehne/cc-test/commit/e6f255925310718d8f1f8f353c2131b76868d03d))
+
 ## [1.2.0](https://github.com/okuehne/cc-test/compare/v1.1.1...v1.2.0) (2022-08-26)
 
 
