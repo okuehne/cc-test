@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:okuehne/cc-test.git",
   "author": "Oliver Kühne <olli.kuehne@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
