@@ -1,7 +1,3 @@
-console.log('Hello World')
-
-function test() {
-    return "test"
+function echoHelloWorl() {
+    console.log("Hello World")
 }
-
-console.log(test())
