@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/okuehne/cc-test/compare/v1.3.0...v2.0.0) (2022-08-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* change function name
+
+### Features
+
+* change function name ([2c7a727](https://github.com/okuehne/cc-test/commit/2c7a72789b4070aae948fd6ecabe7d1249b81b82))
+
 ## [1.3.0](https://github.com/okuehne/cc-test/compare/v1.2.0...v1.3.0) (2022-08-26)
 
 
